@@ -8,3 +8,13 @@ C:\Users\Secre\Documents\Programmieren\QuizWindowsAplication\QuizProgrammieren\o
 C:\Users\Secre\Documents\Programmieren\QuizWindowsAplication\QuizProgrammieren\obj\Debug\QuizProgrammieren.exe
 C:\Users\Secre\Documents\Programmieren\QuizWindowsAplication\QuizProgrammieren\obj\Debug\QuizProgrammieren.pdb
 C:\Users\Secre\Documents\Programmieren\QuizWindowsAplication\QuizProgrammieren\obj\Debug\QuizProgrammieren.Quiz.resources
+C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\bin\Debug\QuizProgrammieren.exe.config
+C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\bin\Debug\QuizProgrammieren.exe
+C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\bin\Debug\QuizProgrammieren.pdb
+C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\obj\Debug\QuizProgrammieren.csproj.AssemblyReference.cache
+C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\obj\Debug\QuizProgrammieren.Quiz.resources
+C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\obj\Debug\QuizProgrammieren.Properties.Resources.resources
+C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\obj\Debug\QuizProgrammieren.csproj.GenerateResource.cache
+C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\obj\Debug\QuizProgrammieren.csproj.CoreCompileInputs.cache
+C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\obj\Debug\QuizProgrammieren.exe
+C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\obj\Debug\QuizProgrammieren.pdb
