@@ -13,10 +13,10 @@ namespace QuizProgrammieren
 {
     public partial class Quiz : Form
     {
+        public static Form instance;
 
-        // Test
-        // Fragen: Variablen
-
+       
+        // Variablen festlegen 
 
         int richtigeAntwort;
         int frageNummer = 1;
@@ -25,9 +25,12 @@ namespace QuizProgrammieren
         int anzahlFragen;
         
 
+        // Anzahl der Fraegn hinzufügen
+
         public Quiz()
         {
             InitializeComponent();
+            instance = this;
 
             FrageStellen(frageNummer);
 
@@ -52,16 +55,16 @@ namespace QuizProgrammieren
 
             if(frageNummer == anzahlFragen)
             {
-                //Prozentsatz
+                //Prozentsatz einrichten
 
                 prozent = (int)Math.Round((double)(score * 100) / anzahlFragen);
 
                 MessageBox.Show(
-                    "Du hast das Ende des Quiz erreicht." + Environment.NewLine + 
-                    Environment.NewLine + "Du hast " + score + "/4 Fragen richtig beantwortet." + Environment.NewLine + 
-                    Environment.NewLine + "Damit hast du " + prozent + "% der Fragen richtig beantwortet." + Environment.NewLine +
-                    Environment.NewLine + "Drücke OK um das Quiz erneut zu starten!"
-                    );
+                     "Du hast das Ende des Quiz erreicht." + Environment.NewLine +
+                     Environment.NewLine + "Du hast " + score + "/4 Fragen richtig beantwortet." + Environment.NewLine +
+                     Environment.NewLine + "Damit hast du " + prozent + "% der Fragen richtig beantwortet." + Environment.NewLine +
+                     Environment.NewLine + "Drücke OK um das Quiz erneut zu starten!"
+                     ) ;
 
                 score = 0;
                 frageNummer = 0;

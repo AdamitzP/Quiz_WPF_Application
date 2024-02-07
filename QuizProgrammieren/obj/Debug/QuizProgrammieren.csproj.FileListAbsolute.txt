@@ -18,3 +18,4 @@ C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\obj\Debug
 C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\obj\Debug\QuizProgrammieren.csproj.CoreCompileInputs.cache
 C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\obj\Debug\QuizProgrammieren.exe
 C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\obj\Debug\QuizProgrammieren.pdb
+C:\Users\Secre\Documents\GitHub\Quiz_WPF_Application\QuizProgrammieren\obj\Debug\QuizProgrammieren.Form2.resources
