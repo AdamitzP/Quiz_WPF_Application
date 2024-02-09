@@ -40,7 +40,7 @@
             // lblfrage
             // 
             this.lblfrage.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblfrage.Location = new System.Drawing.Point(12, 390);
+            this.lblfrage.Location = new System.Drawing.Point(12, 437);
             this.lblfrage.Name = "lblfrage";
             this.lblfrage.Size = new System.Drawing.Size(776, 54);
             this.lblfrage.TabIndex = 0;
@@ -50,7 +50,8 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(74, 475);
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(74, 504);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(294, 66);
             this.button1.TabIndex = 1;
@@ -61,7 +62,8 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(431, 475);
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(431, 504);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(294, 66);
             this.button2.TabIndex = 2;
@@ -72,7 +74,8 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(74, 599);
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Location = new System.Drawing.Point(74, 616);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(294, 66);
             this.button3.TabIndex = 3;
@@ -83,7 +86,8 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(431, 599);
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.Location = new System.Drawing.Point(431, 616);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(294, 66);
             this.button4.TabIndex = 4;
@@ -94,9 +98,10 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::QuizProgrammieren.Properties.Resources.Frage_10;
             this.pictureBox1.Location = new System.Drawing.Point(16, 31);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(772, 340);
+            this.pictureBox1.Size = new System.Drawing.Size(772, 403);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
@@ -106,7 +111,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 723);
+            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.ClientSize = new System.Drawing.Size(805, 736);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);

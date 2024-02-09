@@ -93,10 +93,40 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\images.jpg" />
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadata Include="Connected Services\" />
+    <None Include="Resources\csharp_banner_1IR70j5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frage 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frage 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frage 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frage 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frage 5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frage 6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frage 7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frage 8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frage 9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frage 10.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
